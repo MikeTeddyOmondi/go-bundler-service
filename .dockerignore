@@ -1,0 +1,8 @@
+/tmp
+
+.env
+.gitignore
+
+body.json
+Dockerfile
+README.md
